@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MisterRadhoo
 - 👀 I’m interested in ... Web development and programming
-- 🌱 I’m currently learning ... Python and to code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
